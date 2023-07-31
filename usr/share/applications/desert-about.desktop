@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=DesertAbout
+Name[ru]=Информация о системе
+GenericName=Desert About Dialog
+Comment=Desert About Dialog, that show your machine information
+Categories=Desert;Program;
+Exec=desert-about
+Icon=desert-about
+Terminal=false
+Type=Application
+StartupNotify=false

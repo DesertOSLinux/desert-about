@@ -1,0 +1,8 @@
+Package: desert-about
+Version: 1.0
+Architecture: all
+Maintainer: Kernitskiy Yaroslav <yaroslavsadova1@gmail.com>
+Section: x11
+Priority: optional
+Depends: libc6, libglib2.0-0 (>= 2.50.0), libgtk-3-0 (>= 3.22.0)
+Description: Информация о системе
